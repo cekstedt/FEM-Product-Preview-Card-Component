@@ -1,3 +1,55 @@
+/* Document */
+
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+
+p {
+  font-size: 14px;
+}
+
+.flex-container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Component */
+
+.card {
+  margin: auto;
+}
+
+.card-img-container {
+  padding: 0;
+}
+
+.card-img {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.card-area {
+  padding-top: 15px;
+  color: hsl(228, 12%, 48%);
+  font-family: "Montserrat";
+  letter-spacing: 0.3rem;
+}
+
+.card-title {
+  font-family: "Fraunces";
+  line-height: 1;
+}
+
+.card-text {
+  padding-top: 15px;
+  color: hsl(228, 12%, 48%);
+  font-family: "Montserrat";
+}
+
+/* Footer */
+
 .attribution {
   font-size: 11px;
   text-align: center;
