@@ -1,0 +1,11 @@
+{
+  "name": "Product Preview Card Component",
+  "repo": "https://github.com/cekstedt/FEM-Product-Preview-Card-Component",
+  "challenger": "Frontend Mentor",
+  "challenge page": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa",
+  "hosted": "https://visionary-piroshki-f574a8.netlify.app/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css", "bootstrap"]
+}

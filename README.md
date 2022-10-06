@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/cekstedt/product-preview-card-component-main)
+- Solution URL: [Github](https://github.com/cekstedt/FEM-Product-Preview-Card-Component)
 - Live Site URL: [Netlify](https://visionary-piroshki-f574a8.netlify.app/)
 
 ## My process
